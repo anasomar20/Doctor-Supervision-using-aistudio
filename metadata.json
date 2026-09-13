@@ -1,0 +1,7 @@
+{
+  "name": "Doctor Supervision",
+  "description": "Graduation project supervision app for university professors to manage projects, students, and communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
